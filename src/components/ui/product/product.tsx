@@ -97,8 +97,6 @@ const Product: FC<IProduct> = ({
 
   const noImages = product?.images?.length === 0
 
-  console.log("isDishPageLoading", isDishPageLoading)
-  console.log("isMobile", isMobile)
   return (
     <div
       className={cn(

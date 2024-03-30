@@ -73,6 +73,9 @@ const RestaurantPage: NextPage<IRestaurantPage> = async ({
   const dishesData = await dishService.getAll({
     restaurantUid: restaurantData?.data.restaurants[0]?.uid || slug
   })
+
+  console.log("Page 1 app/[locale]/[slug]")
+
   if (
     !restaurantData ||
     !restaurantData.data.restaurants[0] ||

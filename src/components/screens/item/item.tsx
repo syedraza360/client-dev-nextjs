@@ -46,6 +46,8 @@ const Item: FC<IItem> = ({ dish, categories, allDishes, restaurant }) => {
 
   const { category } = useFindCategory(dish, categories)
 
+  console.log('categories', categories)
+
   return (
     <>
       <div className="bg-gray-50">

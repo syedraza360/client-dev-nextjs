@@ -10,7 +10,8 @@ const Home = async () => {
 
   if (!data) notFound()
 
-  console.log('data', data)
+  console.log("data", data)
+  console.log("Page 1 app/[locale]")
   return (
     <div className="no-scrollbar h-screen overflow-y-auto">
       <header className="sticky top-0 flex h-[62px] items-center justify-center bg-gray-900">

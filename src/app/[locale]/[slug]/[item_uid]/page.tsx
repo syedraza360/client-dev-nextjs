@@ -64,9 +64,6 @@ export const generateMetadata = async ({
 const ItemPage: NextPage<IRestaurantPage> = async ({
   params: { slug, item_uid }
 }) => {
-  console.log("slug", slug)
-  console.log("item_uid", item_uid)
-
   const restaurantData = await restaurantService.getOne(slug)
   const categoriesData = await restaurantService.getCategories({
     restaurantUid: restaurantData?.data.restaurants[0]?.uid || slug
@@ -78,15 +75,23 @@ const ItemPage: NextPage<IRestaurantPage> = async ({
 
   const restaurant = restaurantData?.data?.restaurants[0]
 
+  console.log("restaurant", restaurant)
+  console.log("dishData", dishData)
+  console.log("dishesData", dishesData)
+
   if (!restaurantData || !categoriesData || !dishesData || !dishData) notFound()
   return (
-    <Item
-      type={restaurant?.yumziProduct || RestaurantType.BROWSE}
-      restaurant={restaurant!}
-      dish={dishData.data.dishes[0]}
-      categories={categoriesData.data.categories}
-      allDishes={dishesData.data.dishes}
-    />
+    <>
+      {!dishData.error && (
+        <Item
+          type={restaurant?.yumziProduct || RestaurantType.BROWSE}
+          restaurant={restaurant!}
+          dish={dishData.data.dishes[0]}
+          categories={categoriesData.data.categories}
+          allDishes={dishesData.data.dishes}
+        />
+      )}
+    </>
   )
 }
 
