@@ -1,0 +1,1560 @@
+{
+  "system": {
+    "Search for dishes or drinks": {
+      "de": "Suche nach Speisen oder Getränken",
+      "en": "Search for dishes or drinks",
+      "es": "Buscar platos o bebidas",
+      "ar": "ابحث عن الأطباق أو المشروبات",
+      "zh": "寻找菜肴或饮料",
+      "it": "Cerca piatti o bevande",
+      "fr": "Rechercher des plats ou des boissons",
+      "ru": "Поиск блюд или напитков"
+    },
+    "filter": {
+      "de": "Filter",
+      "en": "Filter",
+      "es": "Filtrar",
+      "ar": "منقي",
+      "zh": "筛选",
+      "it": "Filtro",
+      "fr": "Filtre",
+      "ru": "Фильтры"
+    },
+    "Select your language": {
+      "de": "Sprache wählen",
+      "en": "Select your language",
+      "es": "elige tu idioma",
+      "ar": "اختر لغتك",
+      "zh": "选择你的语言",
+      "it": "seleziona la tua lingua",
+      "fr": "choisissez votre langue",
+      "ru": "Выбрать язык"
+    },
+    "back": {
+      "de": "zurück",
+      "en": "back",
+      "es": "atrás",
+      "ar": "خلف",
+      "zh": "后退",
+      "it": "Indietro",
+      "fr": "dos",
+      "ru": "Назад"
+    },
+    "Popular": {
+      "de": "Beliebt",
+      "en": "Popular",
+      "es": "Popular",
+      "ar": "شائع",
+      "zh": "受欢迎的",
+      "it": "Popolare",
+      "fr": "Populaire",
+      "ru": "Популярное"
+    },
+    "Back to overview": {
+      "de": "zurück zur Übersicht",
+      "en": "Back to overview",
+      "es": "De regreso a la visión general",
+      "ar": "الرجوع إلى النظرة العامة",
+      "zh": "返回概述",
+      "it": "Torna alla panoramica",
+      "fr": "Retour à la vue d'ensemble",
+      "ru": "Вернуться к списку"
+    },
+    "cancel": {
+      "de": "abbrechen",
+      "en": "Cancel",
+      "es": "Cancelar",
+      "ar": "يلغي",
+      "zh": "取消",
+      "it": "Annulla",
+      "fr": "Annuler",
+      "ru": "Отмена"
+    },
+    "Apply filter": {
+      "de": "Filter anwenden",
+      "en": "Apply filter",
+      "es": "Aplicar filtro",
+      "ar": "تطبيق المرشح",
+      "zh": "应用过滤器",
+      "it": "Applica il filtro",
+      "fr": "Appliquer le filtre",
+      "ru": "Применить фильтры"
+    },
+    "Allergens": {
+      "de": "Allergene",
+      "en": "Allergens",
+      "es": "Alérgenos",
+      "ar": "مسببات الحساسية",
+      "zh": "过敏原",
+      "it": "Allergeni",
+      "fr": "Allergènes",
+      "ru": "Аллергены"
+    },
+    "use": {
+      "de": "verwenden",
+      "en": "use",
+      "es": "usar",
+      "ar": "يستخدم",
+      "zh": "使用",
+      "it": "utilizzo",
+      "fr": "utiliser",
+      "ru": "Использовать"
+    },
+    "A pity! We can't find any hits!": {
+      "de": "Schade! Wir können keine Treffer finden!",
+      "en": "A pity! We can't find any hits!",
+      "es": "¡Una pena! ¡No podemos encontrar ningún golpe!",
+      "ar": "شفقة! لا يمكننا العثور على أي ضربات!",
+      "zh": "可惜！我们找不到任何热门歌曲！",
+      "it": "Un peccato! Non possiamo trovare alcun successo!",
+      "fr": "Dommage! Nous ne trouvons aucun succès!",
+      "ru": "К сожалению! Мы не можем найти никаких совпадений!"
+    },
+    "Try to remove some of your filters": {
+      "de": "Versuchen Sie, einige Ihrer Filter zu entfernen",
+      "en": "Try to remove some of your filters",
+      "es": "Intenta eliminar algunos de tus filtros",
+      "ar": "حاول إزالة بعض المرشحات الخاصة بك",
+      "zh": "尝试删除一些过滤器",
+      "it": "Prova a rimuovere alcuni dei tuoi filtri",
+      "fr": "Essayez de supprimer certains de vos filtres",
+      "ru": "Попробуйте удалить некоторые из ваших фильтров"
+    },
+    "Select filter": {
+      "de": "Filter wählen",
+      "en": "Select filter",
+      "es": "Seleccionar filtro",
+      "ar": "حدد مرشح",
+      "zh": "选择过滤器",
+      "it": "Seleziona Filtro",
+      "fr": "Sélectionner le filtre",
+      "ru": "Выберите фильтр"
+    },
+    "Responsible for the content:": {
+      "de": "Verantwortlich für die Inhalte:",
+      "en": "Responsible for the content:",
+      "es": "Responsable del contenido:",
+      "ar": "مسؤول عن المحتوى:",
+      "zh": "内容负责人：",
+      "it": "Responsabile dei contenuti:",
+      "fr": "Responsable du contenu:",
+      "ru": "Ответственный за содержание:"
+    },
+    "Smart Menu provided by Yumzi GmbH.": {
+      "de": "Smart Menu bereitgestellt durch Yumzi GmbH.",
+      "en": "Smart Menu provided by Yumzi GmbH.",
+      "es": "Menú inteligente proporcionado por Yumzi GmbH.",
+      "ar": "قائمة ذكية مقدمة من Yumzi GmbH.",
+      "zh": "由Yumzi GmbH提供的智能菜单。",
+      "it": "Smart Menu fornito da Yumzi GmbH.",
+      "fr": "Smart Menu fourni par Yumzi GmbH.",
+      "ru": "Smart Menu предоставлен Yumzi GmbH."
+    },
+    "Despite careful processing, all information is provided without guarantee and is subject to legal changes": {
+      "de": "Alle Angaben erfolgen trotz sorgfältiger Bearbeitung ohne Gewähr und vorbehaltlich gesetzlicher Änderungen.",
+      "en": "Despite careful processing of all information, no guarantee is given for the accuracy, completeness and timeliness of the information.",
+      "es": "A pesar del cuidadoso procesamiento de toda la información, no se garantiza la exactitud, integridad y actualidad de la información.",
+      "ar": "على الرغم من المعالجة الدقيقة لجميع المعلومات، لا يتم إعطاء أي ضمان لدقة واكتمال وتوقيت المعلومات.",
+      "zh": "尽管对所有信息进行了仔细处理，但不保证信息的准确性，完整性和及时性。",
+      "it": "Nonostante l'elaborazione accurata di tutte le informazioni, non viene fornita alcuna garanzia sull'accuratezza, completezza e tempestività delle informazioni.",
+      "fr": "Malgré le traitement soigneux de toutes les informations, aucune garantie n'est donnée quant à l'exactitude, l'exhaustivité et l'actualité des informations.",
+      "ru": "Несмотря на тщательную обработку всей информации, не предоставляется никаких гарантий на точность, полноту и своевременность информации."
+    },
+    "Last update": {
+      "de": "Letzte Aktualisierung",
+      "en": "Last update",
+      "es": "Última actualización",
+      "ar": "آخر تحديث",
+      "zh": "最后更新",
+      "it": "Ultimo aggiornamento",
+      "fr": "Dernière mise à jour",
+      "ru": "Последнее обновление"
+    },
+    "Nutritional values per portion": {
+      "de": "Nährwerte pro Portion",
+      "en": "Nutritional values ​​per serving",
+      "es": "Valores nutricionales por porción",
+      "ar": "القيم الغذائية لكل جزء",
+      "zh": "每份的营养价值",
+      "it": "Valori nutrizionali per porzione",
+      "fr": "Valeurs nutritionnelles par portion",
+      "ru": "Пищевая ценность на порцию"
+    },
+    "Of which saturated fatty acids": {
+      "de": "davon gesättigte Fettsäuren",
+      "en": "of which fatty saturated fats",
+      "es": "de las cuales las grasas grasas saturadas",
+      "ar": "منها الدهون المشبعة الدهنية",
+      "zh": "其中脂肪饱和脂肪",
+      "it": "di cui grassi grassi saturi",
+      "fr": "Ceci: acides gras saturés",
+      "ru": "из которых насыщенные жирные кислоты"
+    },
+    "Of which sugar": {
+      "de": "davon Zucker",
+      "en": "of which sugar",
+      "es": "de que azúcar",
+      "ar": "من السكر",
+      "zh": "其中糖",
+      "it": "di cui zucchero",
+      "fr": "dont le sucre",
+      "ru": "из которых сахар"
+    },
+    "Allergen labeling": {
+      "de": "Allergenkennzeichnung",
+      "en": "Allergen labeling",
+      "es": "Etiquetado de alérgenos",
+      "ar": "تسمية المسببات المحتملة للحساسية",
+      "zh": "过敏原标签",
+      "it": "Etichettatura degli allergeni",
+      "fr": "Étiquetage des allergènes",
+      "ru": "Маркировка аллергенов"
+    },
+    "learn more": {
+      "de": "mehr erfahren",
+      "en": "learn more",
+      "es": "aprende más",
+      "ar": "تعلم أكثر",
+      "zh": "了解更多",
+      "it": "saperne di più",
+      "fr": "en savoir plus",
+      "ru": "узнать больше"
+    },
+    "Menu": {
+      "de": "Menü",
+      "en": "Menu",
+      "es": "Menú",
+      "ar": "قائمة طعام",
+      "zh": "菜单",
+      "it": "Menu",
+      "fr": "Menu",
+      "ru": "Меню"
+    },
+    "Menus": {
+      "de": "Menüs",
+      "en": "Menus",
+      "es": "Menús",
+      "ar": "القوائم",
+      "zh": "菜单",
+      "it": "Menu",
+      "fr": "Menus",
+      "ru": "Меню"
+    },
+    "More": {
+      "de": "Weitere",
+      "en": "More",
+      "es": "Más",
+      "ar": "أكثر",
+      "zh": "更多",
+      "it": "Di più",
+      "fr": "Plus",
+      "ru": "Больше"
+    },
+    "Nutrition": {
+      "de": "Ernährung",
+      "en": "Nutrition",
+      "es": "Nutrición",
+      "ar": "تغذية",
+      "zh": "营养",
+      "it": "Nutrizione",
+      "fr": "Nutrition",
+      "ru": "Питание"
+    },
+    "Incompatibilities": {
+      "de": "Unverträglichkeiten",
+      "en": "Incompatibilities",
+      "es": "Incompatibilidades",
+      "ar": "عدم التوافق",
+      "zh": "不兼容",
+      "it": "Incompatibilità",
+      "fr": "Incompatibilités",
+      "ru": "Несовместимости"
+    },
+    "deselect all": {
+      "de": "alle abwählen",
+      "en": "deselect all",
+      "es": "deseleccionar todo",
+      "ar": "إلغاء تحديد الكل",
+      "zh": "取消所有选择",
+      "it": "deseleziona tutto",
+      "fr": "désélectionner tout",
+      "ru": "снять выделение со всех"
+    },
+    "Show results": {
+      "de": "Ergebnisse anzeigen",
+      "en": "Show results",
+      "es": "Mostrar resultados",
+      "ar": "إظهار النتائج",
+      "zh": "显示结果",
+      "it": "Mostra risultati",
+      "fr": "Afficher les résultats",
+      "ru": "Показать результаты"
+    },
+    "Show": {
+      "de": "Zeige",
+      "en": "Show",
+      "es": "Mostrar",
+      "ar": "تبين",
+      "zh": "显示",
+      "it": "Mostra",
+      "fr": "Montrer",
+      "ru": "Показать"
+    },
+    "Results": {
+      "de": "Ergebnisse",
+      "en": "Results",
+      "es": "Resultados",
+      "ar": "نتائج",
+      "zh": "结果",
+      "it": "Risultati",
+      "fr": "Résultats",
+      "ru": "Результаты"
+    },
+    "portion": {
+      "de": "Portion",
+      "en": "portion",
+      "es": "parte",
+      "ar": "جزء",
+      "zh": "部分",
+      "it": "porzione",
+      "fr": "portion",
+      "ru": "Порция"
+    },
+    "energy": {
+      "de": "Energie",
+      "en": "energy",
+      "es": "energía",
+      "ar": "طاقة",
+      "zh": "活力",
+      "it": "energia",
+      "fr": "énergie",
+      "ru": "Энергия"
+    },
+    "Fat": {
+      "de": "Fett",
+      "en": "Fat",
+      "es": "Gordo",
+      "ar": "سمين",
+      "zh": "胖的",
+      "it": "Grasso",
+      "fr": "Graisse",
+      "ru": "Жирность"
+    },
+    "carbohydrates": {
+      "de": "Kohlenhydrate",
+      "en": "carbohydrates",
+      "es": "carbohidratos",
+      "ar": "الكربوهيدرات",
+      "zh": "碳水化合物",
+      "it": "carboidrati",
+      "fr": "les glucides",
+      "ru": "Углеводы"
+    },
+    "protein": {
+      "de": "Eiweiß",
+      "en": "protein",
+      "es": "proteína",
+      "ar": "بروتين",
+      "zh": "蛋白质",
+      "it": "proteina",
+      "fr": "protéine",
+      "ru": "Белок"
+    },
+    "salt": {
+      "de": "Salz",
+      "en": "salt",
+      "es": "sal",
+      "ar": "ملح",
+      "zh": "盐",
+      "it": "sale",
+      "fr": "sel",
+      "ru": "соль"
+    },
+    "spicy": {
+      "de": "Scharf",
+      "en": "Spicy",
+      "es": "Picante",
+      "ar": "حار",
+      "zh": "辛辣的",
+      "it": "Speziato",
+      "fr": "épicé",
+      "ru": "Острый"
+    },
+    "Variations": {
+      "de": "Variationen",
+      "en": "Variations",
+      "es": "Variaciones",
+      "ar": "الاختلافات",
+      "zh": "变化",
+      "it": "Variazioni",
+      "fr": "Variations",
+      "ru": "Вариации"
+    },
+    "Choose 1 out": {
+      "de": "Wähle 1 aus",
+      "en": "Choose 1 out",
+      "es": "Elija 1 fuera",
+      "ar": "اختر 1",
+      "zh": "选择1个",
+      "it": "Scegli 1 out",
+      "fr": "Choisissez 1",
+      "ru": "Выберите 1 из"
+    },
+    "required": {
+      "de": "erforderlich",
+      "en": "required",
+      "es": "requerido",
+      "ar": "مطلوب",
+      "zh": "必需的",
+      "it": "necessario",
+      "fr": "requis",
+      "ru": "Обазательно"
+    },
+    "Do you want extras?": {
+      "de": "Möchtest du Extras?",
+      "en": "Do you want extras?",
+      "es": "¿Quieres extras?",
+      "ar": "هل تريد إضافات؟",
+      "zh": "你想要额外的吗？",
+      "it": "Vuoi extra?",
+      "fr": "Voulez-vous des extras?",
+      "ru": "Хотите добавить дополнения?"
+    },
+    "Multiple selection possible": {
+      "de": "Mehrfachauswahl möglich",
+      "en": "Multiple selection possible",
+      "es": "Selección múltiple posible",
+      "ar": "اختيار متعدد ممكن",
+      "zh": "多次选择",
+      "it": "Selezione multipla possibile",
+      "fr": "Sélection multiple possible",
+      "ru": "Можно выбрать несколько"
+    },
+    "optional": {
+      "de": "optional",
+      "en": "optional",
+      "es": "opcional",
+      "ar": "خياري",
+      "zh": "选修的",
+      "it": "opzionale",
+      "fr": "facultatif",
+      "ru": "Опционально"
+    },
+    "Thirsty?": {
+      "de": "Durstig?",
+      "en": "Thirsty?",
+      "es": "¿Sediento?",
+      "ar": "متعطش؟",
+      "zh": "渴？",
+      "it": "Assetato?",
+      "fr": "Soif?",
+      "ru": "Хотите пить?"
+    },
+    "remove": {
+      "de": "entfernen",
+      "en": "Remove",
+      "es": "eliminar",
+      "ar": "يزيل",
+      "zh": "消除",
+      "it": "rimuovere",
+      "fr": "retirer",
+      "ru": "Удалить"
+    },
+    "Add the side dish": {
+      "de": "Beilage hinzufügen",
+      "en": "Add the side dish",
+      "es": "Agrega la guarnición",
+      "ar": "أضف الطبق الجانبي",
+      "zh": "加入配菜",
+      "it": "Aggiungi il contorno",
+      "fr": "Ajouter le plat d'accompagnement",
+      "ru": "Добавить гарнир"
+    },
+    "Something sweet?": {
+      "de": "Etwas Süßes?",
+      "en": "Something sweet?",
+      "es": "¿Algo dulce?",
+      "ar": "شيء حلو؟",
+      "zh": "甜的东西？",
+      "it": "Qualcosa di dolce?",
+      "fr": "Quelque chose de doux?",
+      "ru": "Что-нибудь сладкое?"
+    },
+    "Add the order notice": {
+      "de": "Bestellhinweis hinzufügen",
+      "en": "Add the order notice",
+      "es": "Agregue el aviso de pedido",
+      "ar": "أضف إشعار الطلب",
+      "zh": "添加订单通知",
+      "it": "Aggiungi l'avviso dell'ordine",
+      "fr": "Ajouter l'avis de commande",
+      "ru": "Включить уведомление о заказе"
+    },
+    "Add to order": {
+      "de": "Zur Bestellung hinzufügen",
+      "en": "Add to order",
+      "es": "Agregar a la orden",
+      "ar": "اضافة للأمر",
+      "zh": "添加订单",
+      "it": "Aggiungi all'ordine",
+      "fr": "Ajouter à la commande",
+      "ru": "Добавить в заказ"
+    },
+    "Table number": {
+      "de": "Tischnummer",
+      "en": "Table number",
+      "es": "Número de tabla",
+      "ar": "رقم الطاولة",
+      "zh": "表号",
+      "it": "Numero della tabella",
+      "fr": "Numéro de table",
+      "ru": "Номер таблицы"
+    },
+    "Table": {
+      "de": "Tisch",
+      "en": "Table",
+      "es": "Mesa",
+      "ar": "طاولة",
+      "zh": "桌子",
+      "it": "Tavolo",
+      "fr": "Tableau",
+      "ru": "Стол"
+    },
+    "add article": {
+      "de": "Artikel hinzufügen",
+      "en": "add article",
+      "es": "Agregar artículo",
+      "ar": "أضف المادة",
+      "zh": "添加文章",
+      "it": "Aggiungi articolo",
+      "fr": "ajouter un article",
+      "ru": "Добавить статью"
+    },
+    "Supported payment methods": {
+      "de": "Unterstützte Zahlungsmethoden",
+      "en": "Supported payment methods",
+      "es": "Métodos de pago compatibles",
+      "ar": "أساليب الدفع المدعومة",
+      "zh": "支持的付款方式",
+      "it": "Metodi di pagamento supportati",
+      "fr": "Méthodes de paiement prises en charge",
+      "ru": "Доступные способы оплаты"
+    },
+    "Subtotal": {
+      "de": "Zwischensumme",
+      "en": "Subtotal",
+      "es": "Total parcial",
+      "ar": "نطاق فرعي",
+      "zh": "小计",
+      "it": "totale parziale",
+      "fr": "Total",
+      "ru": "Промежуточный итог"
+    },
+    "Service fee": {
+      "de": "Servicegebühr",
+      "en": "Service fee",
+      "es": "Tarifa de servicio",
+      "ar": "رسوم الخدمة",
+      "zh": "服务费",
+      "it": "Costo del servizio",
+      "fr": "Frais de service",
+      "ru": "Плата за обслуживание"
+    },
+    "In total": {
+      "de": "Gesamt",
+      "en": "In total",
+      "es": "En total",
+      "ar": "في المجموع",
+      "zh": "总共",
+      "it": "In totale",
+      "fr": "Au total",
+      "ru": "В итоге"
+    },
+    "Further": {
+      "de": "Weiter",
+      "en": "Further",
+      "es": "Más",
+      "ar": "متابعة",
+      "zh": "更远",
+      "it": "Ulteriore",
+      "fr": "Plus loin",
+      "ru": "Дальше"
+    },
+    "By clicking on “Next” you agree to our terms and conditions and data protection regulations.": {
+      "de": "Durchs auf “Weiter” klicken stimmst du unseren AGBs und Datenschutzbestimmungen zu.",
+      "en": "By clicking on “Next” you agree to our terms and conditions and data protection regulations.",
+      "es": "Al hacer clic en \"Siguiente\", usted acepta nuestros Términos y Condiciones y Regulaciones de Protección de Datos.",
+      "ar": "من خلال النقر على \"التالي\" ، فإنك توافق على الشروط والأحكام ولوائح حماية البيانات الخاصة بنا.",
+      "zh": "通过单击“下一步”，您同意我们的条款，条件和数据保护法规。",
+      "it": "Facendo clic su \"Avanti\", accetta i nostri termini e condizioni e le norme sulla protezione dei dati.",
+      "fr": "En cliquant sur «Suivant», vous acceptez nos termes et conditions et nos réglementations de protection des données.",
+      "ru": "Нажав «Далее», вы соглашаетесь с нашими условиями и правилами защиты данных."
+    },
+    "Thank you with a tip ❤️": {
+      "de": "Bedanke dich mit einem Trinkgeld️ ❤️",
+      "en": "Thank you with a tip ❤️",
+      "es": "Gracias con un consejo ❤️",
+      "ar": "شكرا لك نصيحة ❤",
+      "zh": "谢谢你的提示❤️",
+      "it": "Grazie con un suggerimento ❤️",
+      "fr": "Merci avec un pourboire ❤️",
+      "ru": "Спасибо за совет ❤"
+    },
+    "Maybe next time": {
+      "de": "Vielleicht, beim nächsten Mal",
+      "en": "Maybe next time",
+      "es": "Tal vez la próxima vez",
+      "ar": "ربما في المرة القادمة",
+      "zh": "下一次吧",
+      "it": "Magari la prossima volta",
+      "fr": "La prochaine fois peut-être",
+      "ru": "Возможно, в следующий раз"
+    },
+    "Add and pay tips": {
+      "de": "Trinkgeld hinzufügen und bezahlen",
+      "en": "Add and pay tips",
+      "es": "Agregar y pagar consejos",
+      "ar": "أضف ودفع النصائح",
+      "zh": "添加并支付提示",
+      "it": "Aggiungi e paga suggerimenti",
+      "fr": "Ajouter et payer des conseils",
+      "ru": "Добавить и заплатить чаевые"
+    },
+    "your data": {
+      "de": "Deine Angaben",
+      "en": "your data",
+      "es": "tu información",
+      "ar": "معلوماتك",
+      "zh": "您的数据",
+      "it": "i tuoi dati",
+      "fr": "vos données",
+      "ru": "Ваши данные"
+    },
+    "Do you need an invoice? Please enter your email below": {
+      "de": "Brauchst du eine Rechnung? Bitte gib unten deine E-Mail an",
+      "en": "Do you need an invoice? Please enter your email below",
+      "es": "¿Necesitas una factura? Ingrese su correo electrónico a continuación",
+      "ar": "هل تحتاج إلى فاتورة؟ يرجى إدخال البريد الالكتروني أدناه",
+      "zh": "您需要发票吗？请在下面输入您的电子邮件",
+      "it": "Hai bisogno di una fattura? Inserisci la tua email qui sotto",
+      "fr": "Avez-vous besoin d'une facture? Veuillez saisir votre e-mail ci-dessous",
+      "ru": "Вам нужен счет? Пожалуйста, введите свой адрес электронной почты ниже"
+    },
+    "Surname": {
+      "de": "Name",
+      "en": "Surname",
+      "es": "Apellido",
+      "ar": "اسم العائلة",
+      "zh": "姓",
+      "it": "Cognome",
+      "fr": "Nom de famille",
+      "ru": "Фамилия"
+    },
+    "e-mail": {
+      "de": "E-Mail",
+      "en": "e-mail",
+      "es": "correo electrónico",
+      "ar": "بريد إلكتروني",
+      "zh": "电子邮件",
+      "it": "e-mail",
+      "fr": "e-mail",
+      "ru": "Электронная почта"
+    },
+    "Register and be notified of news": {
+      "de": "Anmelden und über Neuigkeiten benachrichtigt werden",
+      "en": "Register and be notified of news",
+      "es": "Registrarse y ser notificado de noticias",
+      "ar": "سجل وإخطار الأخبار",
+      "zh": "注册并收到新闻通知",
+      "it": "Registrati e sii avvisato di notizie",
+      "fr": "S'inscrire et être informé des nouvelles",
+      "ru": "Зарегистрироваться и получать уведомомения о новостях"
+    },
+    "Select your payment method": {
+      "de": "Wähle deine Zahlungsmethode aus",
+      "en": "Select your payment method",
+      "es": "selecciona tu forma de pago",
+      "ar": "إختر طريقة الدفع",
+      "zh": "选择您的付款方式",
+      "it": "Seleziona il tuo metodo di pagamento",
+      "fr": "Sélectionnez votre méthode de paiement",
+      "ru": "Выберите способ оплаты"
+    },
+    "Credit/debit card": {
+      "de": "Kredit/Debitkarte",
+      "en": "Credit/debit card",
+      "es": "Tarjeta de crédito / débito",
+      "ar": "بطاقة الائتمان/الخصم",
+      "zh": "信用卡/借记卡",
+      "it": "Carta di credito / debito",
+      "fr": "Carte de crédit / débit",
+      "ru": "Кредитная / дебетовая карта"
+    },
+    "This appears on your account statement: Yumzi": {
+      "de": "Dies erscheint auf deinem Kontoauszug: Yumzi",
+      "en": "This appears on your account statement: Yumzi",
+      "es": "Esto aparece en su cuenta de cuenta: Yumzi",
+      "ar": "يظهر هذا في بيان حسابك: Yumzi",
+      "zh": "这出现在您的帐户报表中：Yumzi",
+      "it": "Questo appare sul tuo account Account: Yumzi",
+      "fr": "Cela apparaît sur la déclaration de votre compte: Yumzi",
+      "ru": "Это находится в отчёте вашей учетной записи: Yumzi"
+    },
+    "Tip": {
+      "de": "Trinkgeld",
+      "en": "Tip",
+      "es": "Consejo",
+      "ar": "بقشيش",
+      "zh": "提示",
+      "it": "Mancia",
+      "fr": "Conseil",
+      "ru": "Чаевые"
+    },
+    "Pay": {
+      "de": "Bezahlen",
+      "en": "Pay",
+      "es": "Pagar",
+      "ar": "يدفع",
+      "zh": "支付",
+      "it": "Paga",
+      "fr": "Payer",
+      "ru": "Заплатить"
+    },
+    "Thank you for your order": {
+      "de": "Vielen Dank für deine Bestellung",
+      "en": "Thank you for your order",
+      "es": "Gracias por su orden",
+      "ar": "شكرا لطلبك",
+      "zh": "谢谢您的订单",
+      "it": "Grazie per il vostro ordine",
+      "fr": "Nous vous remercions de votre commande",
+      "ru": "Спасибо за ваш заказ"
+    },
+    "Your order has been received and will be processed immediately": {
+      "de": "Deine Bestellung ist bei uns eingegangen und wird umgehend bearbeitet",
+      "en": "Your order has been received and will be processed immediately",
+      "es": "Su pedido ha sido recibido y se procesará de inmediato",
+      "ar": "تم استلام طلبك وسيتم معالجته على الفور",
+      "zh": "您的订单已收到，将立即处理",
+      "it": "Il tuo ordine è stato ricevuto e verrà elaborato immediatamente",
+      "fr": "Votre commande a été reçue et sera traitée immédiatement",
+      "ru": "Мы получили ваш заказ и будет обработан немедленно"
+    },
+    "Back to the menu": {
+      "de": "Zurück zum Menü",
+      "en": "Back to the menu",
+      "es": "Volver al menú",
+      "ar": "العودة إلى القائمة",
+      "zh": "回到菜单",
+      "it": "Torna al menu",
+      "fr": "Retour au menu",
+      "ru": "Вернуться в меню"
+    },
+    "Order": {
+      "de": "Bestellung",
+      "en": "Order",
+      "es": "Orden",
+      "ar": "طلب",
+      "zh": "命令",
+      "it": "Ordine",
+      "fr": "Commande",
+      "ru": "Заказ"
+    },
+    "Confirmation": {
+      "de": "Bestätigung",
+      "en": "Confirmation",
+      "es": "Confirmación",
+      "ar": "تأكيد",
+      "zh": "确认",
+      "it": "Conferma",
+      "fr": "Confirmation",
+      "ru": "Подтверждение"
+    },
+    "Remove Article?": {
+      "de": "Artikel entfernen?",
+      "en": "Remove Article?",
+      "es": "Eliminar el artículo?",
+      "ar": "إزالة المادة؟",
+      "zh": "删除文章？",
+      "it": "Rimuovere l'articolo?",
+      "fr": "Supprimer l'article?",
+      "ru": "Удалить статью?"
+    },
+    "Are you sure you want to remove *x *** from your order?": {
+      "de": "Bist du dir sicher, dass du *x *** von deiner Bestellung entfernen möchtest?",
+      "en": "Are you sure you want to remove *x *** from your order?",
+      "es": "¿Estás seguro de que quieres eliminar *x *** de tu pedido?",
+      "ar": "هل أنت متأكد من أنك تريد إزالة *x *** من طلبك؟",
+      "zh": "您确定要从订单中删除 *x ***吗？",
+      "it": "Sei sicuro di voler rimuovere *X *** dal tuo ordine?",
+      "fr": "Êtes-vous sûr de vouloir supprimer * x *** de votre commande?",
+      "ru": "Вы уверены, что хотите удалить *x *** из вашего заказа?"
+    },
+    "Cancel": {
+      "de": "Abbrechen",
+      "en": "Cancel",
+      "es": "Cancelar",
+      "ar": "يلغي",
+      "zh": "取消",
+      "it": "Annulla",
+      "fr": "Annuler",
+      "ru": "Отмена"
+    },
+    "Remove": {
+      "de": "Entfernen",
+      "en": "Remove",
+      "es": "Eliminar",
+      "ar": "يزيل",
+      "zh": "消除",
+      "it": "Rimuovere",
+      "fr": "Retirer",
+      "ru": "Удалить"
+    },
+    "Add credit/debit card": {
+      "de": "Kredit/Debitkarte hinzufügen",
+      "en": "Add credit/debit card",
+      "es": "Agregar tarjeta de crédito/débito",
+      "ar": "أضف بطاقة الائتمان/الخصم",
+      "zh": "添加信用卡/借记卡",
+      "it": "Aggiungi carta di credito/debito",
+      "fr": "Ajouter une carte de crédit / débit",
+      "ru": "Добавить кредитную/дебетовую карту"
+    },
+    "Card number": {
+      "de": "Kartennummer",
+      "en": "Card number",
+      "es": "Número de tarjeta",
+      "ar": "رقم البطاقة",
+      "zh": "卡号",
+      "it": "Numero di carta",
+      "fr": "Numéro de carte",
+      "ru": "Номер карты"
+    },
+    "MM/YY": {
+      "de": "MM/JJ",
+      "en": "MM/YY",
+      "es": "MM/AA",
+      "ar": "الشهر/السن",
+      "zh": "月/年",
+      "it": "MM/AA",
+      "fr": "MM/AA",
+      "ru": "ММ/ГГ"
+    },
+    "CVC": {
+      "de": "CVC",
+      "en": "CVC",
+      "es": "CVC",
+      "ar": "الرمز الأمني",
+      "zh": "安全码",
+      "it": "CVC",
+      "fr": "CVC",
+      "ru": "CVC"
+    },
+    "Name of Cardholder": {
+      "de": "Name des Karteninhabers",
+      "en": "Name of Cardholder",
+      "es": "Nombre del titular de la tarjeta",
+      "ar": "اسم حامل البطاقة",
+      "zh": "持卡人名字",
+      "it": "Nome del titolare della carta",
+      "fr": "Nom du titulaire de la carte",
+      "ru": "Имя владельца карты"
+    },
+    "Add": {
+      "de": "Hinzufügen",
+      "en": "Add",
+      "es": "Agregar",
+      "ar": "يضيف",
+      "zh": "添加",
+      "it": "Aggiungere",
+      "fr": "Ajouter",
+      "ru": "Добавить"
+    },
+    "Here you have the possibility of having an order notice ...": {
+      "de": "Hier hast du die Moglichkeit einen Bestellhinweis hizuzufugen...",
+      "en": "Here you have the possibility of having an order notice ...",
+      "es": "Aquí tienes la posibilidad de tener un aviso de pedido ...",
+      "ar": "هنا لديك إمكانية وجود إشعار طلب ...",
+      "zh": "在这里，您有可能发出订单通知...",
+      "it": "Qui hai la possibilità di avere un avviso d'ordine ...",
+      "fr": "Ici, vous avez la possibilité d'avoir un avis de commande ...",
+      "ru": "Здесь у вас есть возможность получения уведомления о заказе ..."
+    },
+    "View order": {
+      "de": "Bestellung ansehen",
+      "en": "View order",
+      "es": "Ver pedido",
+      "ar": "مشاهدة الطلب",
+      "zh": "查看订单",
+      "it": "Visualizza l'ordine",
+      "fr": "Voir l'ordre",
+      "ru": "Перейти к заказу"
+    },
+    "Discount": {
+      "de": "Rabatt",
+      "en": "Discount",
+      "es": "Descuento",
+      "ar": "تخفيض",
+      "zh": "折扣",
+      "it": "Sconto",
+      "fr": "Rabais",
+      "ru": "Скидка"
+    },
+    "Estimated guidelines": {
+      "de": "Geschätzte Richtwerte",
+      "en": "Estimated guidelines",
+      "es": "Pautas estimadas",
+      "ar": "الإرشادات المقدرة",
+      "zh": "估计指南",
+      "it": "Linee guida stimate",
+      "fr": "Lignes directrices estimées",
+      "ru": "Примерные рекомендации"
+    },
+    "Appetizers": {
+      "de": "Vorspeisen",
+      "en": "Appetizers",
+      "es": "Entradas",
+      "ar": "المقبلات",
+      "zh": "开胃菜",
+      "it": "Antipasti",
+      "fr": "Apéritifs",
+      "ru": "Закуски"
+    },
+    "Our recommendation": {
+      "de": "Unsere Empfehlung",
+      "en": "Our recommendation",
+      "es": "nuestra recomendación",
+      "ar": "توصياتنا",
+      "zh": "我们的建议",
+      "it": "la nostra raccomandazione",
+      "fr": "Notre recommandation",
+      "ru": "Наша рекомендация"
+    },
+    "Similar items": {
+      "de": "Ähnliche Artikel",
+      "en": "Similar items",
+      "es": "Artículos similares",
+      "ar": "عناصر مماثلة",
+      "zh": "类似的项目",
+      "it": "Articoli simili",
+      "fr": "Articles similaires",
+      "ru": "Похожие элементы"
+    },
+    "Show more items": {
+      "de": "Mehr Artikel anzeigen",
+      "en": "Show more items",
+      "es": "Mostrar más artículos",
+      "ar": "عرض المزيد من العناصر",
+      "zh": "显示更多项目",
+      "it": "Mostra più articoli",
+      "fr": "Afficher plus d'articles",
+      "ru": "Показать больше элементов"
+    },
+    "Beverages": {
+      "de": "Getränke",
+      "en": "Beverages",
+      "es": "Bebidas",
+      "ar": "المشروبات",
+      "zh": "饮料",
+      "it": "Bevande",
+      "fr": "Breuvages",
+      "ru": "Напитки"
+    },
+    "Side dishes": {
+      "de": "Beilagen",
+      "en": "Side dishes",
+      "es": "Guarniciones",
+      "ar": "الأطباق الجانبية",
+      "zh": "配菜",
+      "it": "Contorni",
+      "fr": "Plats d'accompagnement",
+      "ru": "Гарниры"
+    },
+    "Dessert": {
+      "de": "Nachspeisen",
+      "en": "Dessert",
+      "es": "Postre",
+      "ar": "حَلوَى",
+      "zh": "甜点",
+      "it": "Dolce",
+      "fr": "Dessert",
+      "ru": "Десерт"
+    },
+    "Search at": {
+      "de": "Suche bei",
+      "en": "Search at",
+      "es": "Buscar en",
+      "ar": "ابحث في",
+      "zh": "搜索",
+      "it": "Cerca a",
+      "fr": "Rechercher",
+      "ru": "Поиск в"
+    },
+    "Nutritional information": {
+      "de": "Nährwertangaben",
+      "en": "Nutritional information",
+      "es": "Información nutricional",
+      "ar": "المعلومات الغذائية",
+      "zh": "营养信息",
+      "it": "Informazioni nutrizionali",
+      "fr": "Information nutritionnelle",
+      "ru": "Пищевая ценность"
+    },
+    "Search for article": {
+      "de": "Suche nach Artikel",
+      "en": "Search for article",
+      "es": "Buscar artículo",
+      "ar": "ابحث عن المقالة",
+      "zh": "搜索文章",
+      "it": "Cerca l'articolo",
+      "fr": "Rechercher l'article",
+      "ru": "Поиск статьи"
+    },
+    "Language": {
+      "de": "Sprache",
+      "en": "Language",
+      "es": "Idioma",
+      "ar": "لغة",
+      "zh": "语言",
+      "it": "Lingua",
+      "fr": "Langue",
+      "ru": "Язык"
+    },
+    "Search": {
+      "de": "Suche",
+      "en": "Search",
+      "es": "Buscar",
+      "ar": "بحث",
+      "zh": "搜索",
+      "it": "Ricerca",
+      "fr": "Recherche",
+      "ru": "Поиск"
+    },
+    "View": {
+      "de": "Darstellung",
+      "en": "View",
+      "es": "Vista",
+      "ar": "منظر",
+      "zh": "看法",
+      "it": "Visualizzazione",
+      "fr": "Représentation",
+      "ru": "Вид"
+    },
+    "Share": {
+      "de": "Teilen",
+      "en": "Share",
+      "es": "Compartir",
+      "ar": "يشارك",
+      "zh": "分享",
+      "it": "Condividere",
+      "fr": "Diviser",
+      "ru": "Поделиться"
+    },
+    "Show more": {
+      "de": "Mehr anzeigen",
+      "en": "Show more",
+      "es": "Mostrar más",
+      "ar": "أظهر المزيد",
+      "zh": "显示更多",
+      "it": "Mostra di più",
+      "fr": "Montrez plus",
+      "ru": "Показать больше"
+    }
+  },
+  "allergens": [
+    {
+      "shortForm": "A",
+      "name": {
+        "de": "Gluten",
+        "en": "gluten",
+        "es": "gluten",
+        "ar": "الغولتين",
+        "zh": "麸质",
+        "it": "glutine",
+        "fr": "gluten",
+        "ru": "Глютен"
+      },
+      "value": "gluten",
+      "description": {
+        "de": "Glutenhaltiges Getreide und daraus gewonnene Erzeugnisse",
+        "en": "Grain containing gluten and products obtained from it",
+        "es": "Grano que contiene gluten y productos obtenidos de él",
+        "ar": "الحبوب التي تحتوي على الغلوتين والمنتجات التي تم الحصول عليها منها",
+        "zh": "含有面筋的谷物及其从中获得的产品",
+        "it": "Grano contenente glutine e prodotti ottenuti da esso",
+        "fr": "Grain contenant du gluten et des produits obtenus à partir de celui-ci",
+        "ru": "Зерно, содержащее глютен и продукты, полученные из него"
+      }
+    },
+    {
+      "shortForm": "B",
+      "name": {
+        "de": "Krebstiere",
+        "en": "Crustaceans",
+        "es": "Crustáceos",
+        "ar": "القشريات",
+        "zh": "甲壳类动物",
+        "it": "Crostacei",
+        "fr": "Crustacés",
+        "ru": "Ракообразные"
+      },
+      "value": "crustaceans",
+      "description": {
+        "de": "Krebstiere und daraus gewonnene Erzeugnisse",
+        "en": "Crustaceans and products obtained from it",
+        "es": "Crustáceos y productos obtenidos de él",
+        "ar": "القشريات والمنتجات التي تم الحصول عليها منها",
+        "zh": "甲壳类动物及其从中获得的产品",
+        "it": "Crostacei e prodotti ottenuti da esso",
+        "fr": "Crustacés et produits obtenus à partir de celui-ci",
+        "ru": "Ракообразные и продукты, полученные из них"
+      }
+    },
+    {
+      "shortForm": "C",
+      "name": {
+        "de": "Eier",
+        "en": "Egg",
+        "es": "Huevo",
+        "ar": "بيضة",
+        "zh": "蛋",
+        "it": "Uovo",
+        "fr": "Œuf",
+        "ru": "Яйцо"
+      },
+      "value": "egg",
+      "description": {
+        "de": "Eier von Geflügel und daraus gewonnene Erzeugnisse",
+        "en": "Eggs of poultry and products obtained from it",
+        "es": "Huevos de aves de corral y productos obtenidos",
+        "ar": "بيض الدواجن والمنتجات التي تم الحصول عليها منها",
+        "zh": "家禽和从中获得的产品",
+        "it": "Uova di pollame e prodotti ottenuti da esso",
+        "fr": "Œufs de volaille et produits obtenus à partir de celui-ci",
+        "ru": "Яйца из птицы и продуктов, полученных из нее"
+      }
+    },
+    {
+      "shortForm": "D",
+      "name": {
+        "de": "Fische",
+        "en": "fish",
+        "es": "pez",
+        "ar": "سمكة",
+        "zh": "鱼",
+        "it": "pescare",
+        "fr": "poisson",
+        "ru": "Рыба"
+      },
+      "value": "fish",
+      "description": {
+        "de": "Fisch und daraus gewonnene Erzeugnisse",
+        "en": "Fish and products obtained from it",
+        "es": "Pescado y productos obtenidos de él",
+        "ar": "الأسماك والمنتجات التي تم الحصول عليها منها",
+        "zh": "从中获得的鱼类和产品",
+        "it": "Pesce e prodotti ottenuti da esso",
+        "fr": "Poisson et produits obtenus à partir de celui-ci",
+        "ru": "Рыба и продукты, полученные из нее"
+      }
+    },
+    {
+      "shortForm": "E",
+      "name": {
+        "de": "Erdnüsse",
+        "en": "peanuts",
+        "es": "miseria",
+        "ar": "الفول السوداني",
+        "zh": "花生",
+        "it": "arachidi",
+        "fr": "cacahuètes",
+        "ru": "Арахис"
+      },
+      "value": "peanuts",
+      "description": {
+        "de": "Erdnüsse und daraus gewonnene Erzeugnisse",
+        "en": "Peanuts and products obtained from it",
+        "es": "Maní y productos obtenidos de él",
+        "ar": "الفول السوداني والمنتجات التي تم الحصول عليها منها",
+        "zh": "从中获得的花生和产品",
+        "it": "Peanut e prodotti ottenuti da esso",
+        "fr": "Arachides et produits obtenus à partir de celui-ci",
+        "ru": "Арахис и продукты, полученные из него"
+      }
+    },
+    {
+      "shortForm": "F",
+      "name": {
+        "de": "Sojabohnen",
+        "en": "Soybeans",
+        "es": "Soja",
+        "ar": "فول الصويا",
+        "zh": "大豆",
+        "it": "Soia",
+        "fr": "Soja",
+        "ru": "Соевые бобы"
+      },
+      "value": "soybeans",
+      "description": {
+        "de": "Sojabohnen und daraus gewonnene Erzeugnisse",
+        "en": "Soybeans and products obtained from it",
+        "es": "Soja y productos obtenidos de él",
+        "ar": "فول الصويا والمنتجات التي تم الحصول عليها منها",
+        "zh": "从中获得的大豆和产品",
+        "it": "Soia e prodotti ottenuti da esso",
+        "fr": "Soja et produits obtenus à partir de celui-ci",
+        "ru": "Соевые бобы и продукты, полученные из них"
+      }
+    },
+    {
+      "shortForm": "G",
+      "name": {
+        "de": "Milch",
+        "en": "milk",
+        "es": "leche",
+        "ar": "لبن",
+        "zh": "牛奶",
+        "it": "latte",
+        "fr": "lait",
+        "ru": "Молоко"
+      },
+      "value": "milk",
+      "description": {
+        "de": "Milch von Säugetieren und Milcherzeugnisse (inklusive Laktose)",
+        "en": "Milk of mammals and milk products (including lactose)",
+        "es": "Leche de mamíferos y productos lácteos (incluida la lactosa)",
+        "ar": "حليب الثدييات ومنتجات الألبان (بما في ذلك اللاكتوز)",
+        "zh": "哺乳动物和牛奶产品的牛奶（包括乳糖）",
+        "it": "Latte di mammiferi e prodotti lattiero -caseari (incluso il lattosio)",
+        "fr": "Lait de mammifères et de produits laitiers (y compris le lactose)",
+        "ru": "Молоко млекопитающих и молочных продуктов (включая лактозу)"
+      }
+    },
+    {
+      "shortForm": "H",
+      "name": {
+        "de": "Schalenfrüchte",
+        "en": "Shell fruits",
+        "es": "Frutas",
+        "ar": "ثمار الصدفة",
+        "zh": "壳果",
+        "it": "Frutti a conchiglia",
+        "fr": "Fruits de coquille",
+        "ru": "Фрукты в скорлупе"
+      },
+      "value": "shell_fruits",
+      "description": {
+        "de": "Schalenfrüchte (Baumnüsse) und daraus gewonnene Erzeugnisse",
+        "en": "Shell fruits (tree nuts) and products obtained from it",
+        "es": "Frutas de concha (nueces de árbol) y productos obtenidos de él",
+        "ar": "ثمار الصدفة (صواميل الأشجار) والمنتجات التي تم الحصول عليها منها",
+        "zh": "外壳水果（树坚果）及其从中获得的产品",
+        "it": "Shell Fruits (alberi) e prodotti ottenuti da esso",
+        "fr": "Fruits de coquille (noix d'arbre) et produits obtenus à partir de celui-ci",
+        "ru": "Фрукты в скорлупе (лесные орехи) и продукты, полученные из них"
+      }
+    },
+    {
+      "shortForm": "L",
+      "name": {
+        "de": "Sellerie",
+        "en": "celery",
+        "es": "apio",
+        "ar": "كرفس",
+        "zh": "芹菜",
+        "it": "sedano",
+        "fr": "céleri",
+        "ru": "Сельдерей"
+      },
+      "value": "celery",
+      "description": {
+        "de": "Sellerie und daraus gewonnene Erzeugnisse",
+        "en": "Celery and products obtained from it",
+        "es": "Apio y productos obtenidos de él",
+        "ar": "الكرفس والمنتجات التي تم الحصول عليها منها",
+        "zh": "芹菜和从中获得的产品",
+        "it": "Sedano e prodotti ottenuti da esso",
+        "fr": "Céleri et produits obtenus à partir de celui-ci",
+        "ru": "Сельдерей и продукты, полученные из него"
+      }
+    },
+    {
+      "shortForm": "M",
+      "name": {
+        "de": "Senf",
+        "en": "Mustard",
+        "es": "Mostaza",
+        "ar": "خردل",
+        "zh": "芥末",
+        "it": "Mostarda",
+        "fr": "Moutarde",
+        "ru": "Горчица"
+      },
+      "value": "mustard",
+      "description": {
+        "de": "Senf und daraus gewonnene Erzeugnisse",
+        "en": "Mustard and products obtained from it",
+        "es": "Mostaza y productos obtenidos de él",
+        "ar": "الخردل والمنتجات التي تم الحصول عليها منها",
+        "zh": "芥末酱和从中获得的产品",
+        "it": "Senape e prodotti ottenuti da esso",
+        "fr": "Moutarde et produits obtenus à partir de celui-ci",
+        "ru": "Горчица и продукты, полученные из нее"
+      }
+    },
+    {
+      "shortForm": "N",
+      "name": {
+        "de": "Sesamsamen",
+        "en": "Sesame seeds",
+        "es": "semillas de sésamo",
+        "ar": "حبوب السمسم",
+        "zh": "芝麻籽",
+        "it": "semi di sesamo",
+        "fr": "graines de sésame",
+        "ru": "Семена кунжута"
+      },
+      "value": "sesame_seeds",
+      "description": {
+        "de": "Sesamsamen und daraus gewonnene Erzeugnisse",
+        "en": "Sesame seeds and products obtained from it",
+        "es": "Semillas de sésamo y productos obtenidos de él",
+        "ar": "بذور السمسم والمنتجات التي تم الحصول عليها منها",
+        "zh": "芝麻种子和从中获得的产品",
+        "it": "Semi di sesamo e prodotti ottenuti da esso",
+        "fr": "Graines de sésame et produits obtenus à partir de celui-ci",
+        "ru": "Семена кунжута и продукты, полученные из них"
+      }
+    },
+    {
+      "shortForm": "O",
+      "name": {
+        "de": "Schwefeldioxid",
+        "en": "Sulfur dioxide",
+        "es": "Dióxido de azufre",
+        "ar": "ثاني أكسيد الكبريت",
+        "zh": "二氧化硫",
+        "it": "Diossido di zolfo",
+        "fr": "Le dioxyde de soufre",
+        "ru": "Диоксид серы"
+      },
+      "value": "sulfur_dioxide",
+      "description": {
+        "de": "Schwefeldioxid und Sulfite",
+        "en": "Sulfur dioxide and sulfite",
+        "es": "Dióxido de azufre y sulfito",
+        "ar": "ثاني أكسيد الكبريت والكبريتيت",
+        "zh": "二氧化硫和亚硫酸盐",
+        "it": "Biossido di zolfo e solfito",
+        "fr": "Dioxyde de soufre et sulfite",
+        "ru": "Диоксид серы и сульфит"
+      }
+    },
+    {
+      "shortForm": "P",
+      "name": {
+        "de": "Lupinen",
+        "en": "Lupines",
+        "es": "Lupinas",
+        "ar": "الترمس",
+        "zh": "羽扇豆",
+        "it": "Lupini",
+        "fr": "Lupins",
+        "ru": "Люпины"
+      },
+      "value": "lupines",
+      "description": {
+        "de": "Lupinen und daraus gewonnene Erzeugnisse",
+        "en": "Lupines and products obtained from it",
+        "es": "Lupinas y productos obtenidos de él",
+        "ar": "الترمس والمنتجات التي تم الحصول عليها منها",
+        "zh": "从中获得的羽扇豆和产品",
+        "it": "Lupini e prodotti ottenuti da esso",
+        "fr": "Lupins et produits obtenus à partir de celui-ci",
+        "ru": "Люпины и продукты, полученные из них"
+      }
+    },
+    {
+      "shortForm": "R",
+      "name": {
+        "de": "Weichtiere",
+        "en": "Mosquitar",
+        "es": "Mosquito",
+        "ar": "موسكوغر",
+        "zh": "蚊子",
+        "it": "Mosquitar",
+        "fr": "Moustique",
+        "ru": "Комар"
+      },
+      "value": "mosquitar",
+      "description": {
+        "de": "Weichtiere und daraus gewonnene Erzeugnisse",
+        "en": "Molluscs and products obtained from it",
+        "es": "Moluscos y productos obtenidos de él",
+        "ar": "تم دخينه وحصل على منتجات منه",
+        "zh": "从中倾斜并获得了产品",
+        "it": "Mettiti e ottenuti da esso",
+        "fr": "Moldled et obtenu des produits de celui-ci",
+        "ru": "Моллюски и продукты, полученные из них"
+      }
+    }
+  ],
+  "filters": [
+    {
+      "name": {
+        "de": "Vegetarisch",
+        "en": "Vegetarian",
+        "es": "Vegetariano",
+        "ar": "نباتي",
+        "zh": "素食主义者",
+        "it": "Vegetariano",
+        "fr": "Végétarien",
+        "ru": "Вегетарианский"
+      },
+      "value": "VEGETARIAN"
+    },
+    {
+      "name": {
+        "de": "Vegan",
+        "en": "Vegan",
+        "es": "Vegano",
+        "ar": "نباتي",
+        "zh": "素食主义者",
+        "it": "Vegano",
+        "fr": "Végétalien",
+        "ru": "Vegan"
+      },
+      "value": "VEGAN"
+    },
+    {
+      "name": {
+        "de": "Zuckerfrei",
+        "en": "Sugar free",
+        "es": "Sin azúcar",
+        "ar": "خالي من السكر",
+        "zh": "无糖",
+        "it": "Senza zucchero",
+        "fr": "Sans sucre",
+        "ru": "Без сахара"
+      },
+      "value": "SUGAR-FREE"
+    },
+    {
+      "name": {
+        "de": "Alkoholfrei",
+        "en": "Alcohol free",
+        "es": "Sin alcohol",
+        "ar": "خالي من الكحول",
+        "zh": "无酒精",
+        "it": "Senza alcool",
+        "fr": "Sans alcool",
+        "ru": "Без алкоголя"
+      },
+      "value": "ALCOHOL-FREE"
+    },
+    {
+      "name": {
+        "de": "Nussfrei",
+        "en": "Nut free",
+        "es": "Sin nueces",
+        "ar": "خالي من المكسرات",
+        "zh": "无坚果",
+        "it": "Senza noci",
+        "fr": "Sans noix",
+        "ru": "Без орехов"
+      },
+      "value": "NUT-FREE"
+    },
+    {
+      "name": {
+        "de": "Laktosefrei",
+        "en": "Lactose free",
+        "es": "Sin lactosa",
+        "ar": "لاكتوز خالية",
+        "zh": "不含乳糖",
+        "it": "Senza lattosio",
+        "fr": "Sans lactose",
+        "ru": "Без лактозы"
+      },
+      "value": "LACTOSE-FREE"
+    },
+    {
+      "name": {
+        "de": "Glutenfrei",
+        "en": "Gluten free",
+        "es": "Sin gluten",
+        "ar": "خالي من الغلوتين",
+        "zh": "不含麸质",
+        "it": "Senza glutine",
+        "fr": "Sans gluten",
+        "ru": "Без глютена"
+      },
+      "value": "GLUTEN-FREE"
+    },
+    {
+      "name": {
+        "de": "Histaminfrei",
+        "en": "Histamine free",
+        "es": "Sin histamina",
+        "ar": "خالي من الهستامين",
+        "zh": "无组胺",
+        "it": "Senza istamina",
+        "fr": "Sans histamine",
+        "ru": "Без гистамина"
+      },
+      "value": "HISTAMINE-FREE"
+    },
+    {
+      "name": {
+        "de": "Scharf",
+        "en": "Spicy",
+        "es": "Picante",
+        "ar": "حار",
+        "zh": "辛辣的",
+        "it": "Speziato",
+        "fr": "épicé",
+        "ru": "Острое"
+      },
+      "value": "SPICY"
+    },
+    {
+      "name": {
+        "de": "Neu",
+        "en": "New",
+        "es": "Nuevo",
+        "ar": "جديد",
+        "zh": "新",
+        "it": "Nuovo",
+        "fr": "Nouveau",
+        "ru": "Новый"
+      },
+      "value": "NEW"
+    },
+    {
+      "name": {
+        "de": "Angebot",
+        "en": "Offer",
+        "es": "Oferta",
+        "ar": "عرض",
+        "zh": "报价",
+        "it": "Offerta",
+        "fr": "Offre",
+        "ru": "Предложение"
+      },
+      "value": "OFFER"
+    },
+    {
+      "name": {
+        "de": "Beliebt",
+        "en": "Popular",
+        "es": "Popular",
+        "ar": "شعبي",
+        "zh": "受欢迎",
+        "it": "Popolare",
+        "fr": "Populaire",
+        "ru": "Популярный"
+      },
+      "value": "POPULAR"
+    }
+  ]
+}
