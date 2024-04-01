@@ -13,7 +13,7 @@ import type { ICategory } from "@/interfaces/category.interface"
 import type { IDish } from "@/interfaces/dish.interface"
 import type { IRestaurantSettings } from "@/interfaces/restaurant.interface"
 import { useVariables } from "@/store/use-variables"
-import { useParams, useRouter } from "next/navigation"
+import { useParams, usePathname, useRouter } from "next/navigation"
 import { Fragment, useMemo, useState, type FC } from "react"
 import { createPortal } from "react-dom"
 import DishLabels from "../dish-labels/dish-labels"
@@ -42,8 +42,9 @@ const Product: FC<IProduct> = ({
   const { isMobile } = useScreenSize()
   const isMounted = useMounted()
 
-  const { push } = useRouter()
+  const router = useRouter()
   const params = useParams()
+  const pathname = usePathname()
 
   const [isHovering, setIsHovering] = useState(false)
   const [isDishPageLoading, setIsDishPageLoading] = useState(true)
@@ -81,9 +82,9 @@ const Product: FC<IProduct> = ({
 
   const onProductClick = () => {
     if (isMobile) {
-      document.body.style.overflow = "hidden"
+      // document.body.style.overflow = "hidden"
       setIsDishPageLoading(false)
-      push(`/${params.slug}/${product.uid}`)
+      // router.push({ pathname: pathname, query: product.uid })
     } else {
       const newUrl = formUrlQuery({
         params: new URL(window.location.href).searchParams.toString(),
@@ -91,7 +92,7 @@ const Product: FC<IProduct> = ({
         value: product.uid
       })
       setDish(product)
-      push(newUrl)
+      router.push(newUrl)
     }
   }
 
