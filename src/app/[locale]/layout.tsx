@@ -44,6 +44,7 @@ const RootLayout: FC<PropsWithChildren<IRootLayout>> = ({
 }) => {
   return (
     <html lang={locale}>
+      <meta name="apple-mobile-web-app-capable" content="yes" />
       {isProduction && (
         <Script
           id="google-tag-manager"

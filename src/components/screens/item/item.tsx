@@ -46,7 +46,21 @@ const Item: FC<IItem> = ({ dish, categories, allDishes, restaurant }) => {
 
   const { category } = useFindCategory(dish, categories)
 
-  console.log('categories', categories)
+  useEffect(() => {
+    const handleRouteChange = () => {
+      window.scrollTo(0, 0)
+    }
+
+    // Add event listener to listen for route changes
+    window.addEventListener("popstate", handleRouteChange)
+
+    return () => {
+      // Remove event listener when the component unmounts
+      window.removeEventListener("popstate", handleRouteChange)
+    }
+  }, [])
+
+  console.log("categories", categories)
 
   return (
     <>

@@ -75,10 +75,6 @@ const ItemPage: NextPage<IRestaurantPage> = async ({
 
   const restaurant = restaurantData?.data?.restaurants[0]
 
-  console.log("restaurant", restaurant)
-  console.log("dishData", dishData)
-  console.log("dishesData", dishesData)
-
   if (!restaurantData || !categoriesData || !dishesData || !dishData) notFound()
   return (
     <>
