@@ -8,6 +8,7 @@ import { Inter } from "next/font/google"
 import Script from "next/script"
 import type { FC, PropsWithChildren } from "react"
 import "./globals.scss"
+import Head from "next/head"
 
 export const metadata: Metadata = {
   title: "Yumzi",
@@ -44,7 +45,12 @@ const RootLayout: FC<PropsWithChildren<IRootLayout>> = ({
 }) => {
   return (
     <html lang={locale}>
-      <meta name="apple-mobile-web-app-capable" content="yes" />
+      <Head>
+        <meta
+          name="viewport"
+          content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"
+        />
+      </Head>
       {isProduction && (
         <Script
           id="google-tag-manager"
