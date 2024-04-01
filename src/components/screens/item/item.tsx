@@ -63,41 +63,39 @@ const Item: FC<IItem> = ({ dish, categories, allDishes, restaurant }) => {
   console.log("categories", categories)
 
   return (
-    <>
-      <div className="bg-gray-50">
-        <Header dish={dish} categoryId={category?.uid || ""} />
-        <ItemDetails dish={dish} />
-        <div
-          className={cn(
-            "sticky z-10 bg-gray-50",
-            dish?.images?.length > 1 && "mt-1"
-          )}
-        >
-          <ItemAbout
-            dish={dish}
-            categories={categories}
-            restaurant={restaurant}
-            isShowAllergens={isShowAllergens}
-            setIsShowAllergens={setIsShowAllergens}
-          />
-          <ItemCharacteristics dish={dish} />
-          <ItemRecommendations
-            type="page"
-            dish={dish}
-            allDishes={allDishes}
-            categories={categories}
-            restaurantSettings={restaurant.settings}
-          />
-          <ItemSimilarDishes
-            type="page"
-            dish={dish}
-            categories={categories}
-            allDishes={allDishes}
-            restaurantSettings={restaurant.settings}
-          />
-        </div>
+    <div className="bg-gray-50" style={{ minHeight: "120vh" }}>
+      <Header dish={dish} categoryId={category?.uid || ""} />
+      <ItemDetails dish={dish} />
+      <div
+        className={cn(
+          "sticky z-10 bg-gray-50",
+          dish?.images?.length > 1 && "mt-1"
+        )}
+      >
+        <ItemAbout
+          dish={dish}
+          categories={categories}
+          restaurant={restaurant}
+          isShowAllergens={isShowAllergens}
+          setIsShowAllergens={setIsShowAllergens}
+        />
+        <ItemCharacteristics dish={dish} />
+        <ItemRecommendations
+          type="page"
+          dish={dish}
+          allDishes={allDishes}
+          categories={categories}
+          restaurantSettings={restaurant.settings}
+        />
+        <ItemSimilarDishes
+          type="page"
+          dish={dish}
+          categories={categories}
+          allDishes={allDishes}
+          restaurantSettings={restaurant.settings}
+        />
       </div>
-    </>
+    </div>
   )
 }
 
