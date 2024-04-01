@@ -4,9 +4,12 @@
 
 @import url("react-loading-skeleton/dist/skeleton.css");
 
+html {
+  height: 100%;
+}
 // Resetting overflow-y-hidden in the preloader component
 body {
-  -webkit-font-smoothing: antialiased;
+  // -webkit-font-smoothing: antialiased;
 }
 
 @layer base {
