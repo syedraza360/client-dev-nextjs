@@ -13,21 +13,7 @@ interface IItemDetails {
 }
 
 const ItemDetails: FC<IItemDetails> = ({ dish }) => {
-  const [scrollPosition, setScrollPosition] = useState(0)
-
-  useEffect(() => {
-    const el = window
-    const handler = () => {
-      setScrollPosition(el?.scrollY || 0)
-    }
-
-    el?.addEventListener("scroll", handler)
-
-    return () => {
-      el?.removeEventListener("scroll", handler)
-    }
-  }, [])
-
+  
   const isImages = dish?.images?.length > 0
 
   return (
@@ -39,7 +25,7 @@ const ItemDetails: FC<IItemDetails> = ({ dish }) => {
           <div
             className="pointer-events-none absolute left-0 top-0 z-10 h-full w-full bg-black"
             style={{
-              opacity: scrollPosition === 0 ? 0 : scrollPosition / 950
+              // opacity: scrollPosition === 0 ? 0 : scrollPosition / 950
             }}
           />
           <DetailsImages images={dish?.images || []} isDish={!!dish} />

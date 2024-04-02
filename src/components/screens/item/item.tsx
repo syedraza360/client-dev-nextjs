@@ -48,7 +48,7 @@ const Item: FC<IItem> = ({ dish, categories, allDishes, restaurant }) => {
 
   useEffect(() => {
     const handleRouteChange = () => {
-      window.scrollTo(0, 0)
+      window.scrollTo(0, 1)
     }
 
     // Add event listener to listen for route changes
