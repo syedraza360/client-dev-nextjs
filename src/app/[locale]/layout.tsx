@@ -46,10 +46,11 @@ const RootLayout: FC<PropsWithChildren<IRootLayout>> = ({
   return (
     <html lang={locale}>
       <Head>
-        <meta
+        {/* <meta
           name="viewport"
           content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"
-        />
+        /> */}
+        <meta name="viewport" content="minimal-ui" />
       </Head>
       {isProduction && (
         <Script
