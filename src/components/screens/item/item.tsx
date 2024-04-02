@@ -68,7 +68,7 @@ const Item: FC<IItem> = ({ dish, categories, allDishes, restaurant }) => {
       <ItemDetails dish={dish} />
       <div
         className={cn(
-          "sticky z-10 bg-gray-50",
+          "z-10 bg-gray-50",
           dish?.images?.length > 1 && "mt-1"
         )}
       >

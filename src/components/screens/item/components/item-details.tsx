@@ -32,7 +32,7 @@ const ItemDetails: FC<IItemDetails> = ({ dish }) => {
 
   return (
     <div
-      className={cn("", isImages ? "sticky left-0 top-14" : "bg-white px-3")}
+      className={cn("", isImages ? "left-0 top-14" : "bg-white px-3")}
     >
       {isImages && (
         <>
