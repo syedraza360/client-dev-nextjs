@@ -159,7 +159,7 @@ const RestaurantProvider: FC<PropsWithChildren<IRestaurantProvider>> = ({
   }, [])
 
   useEffect(() => {
-    // ScrollTrigger.refresh()
+    ScrollTrigger.refresh()
   }, [restaurant?.uid, activeMenuUid, search, dishes, isMobile])
 
   const getSortedMenus = useCallback((menus: IMenuWithIsActive[]) => {
