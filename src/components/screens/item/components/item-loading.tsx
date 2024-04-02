@@ -39,7 +39,7 @@ const ItemLoading: FC<IItemLoading> = ({
   const splitDescriptionFull = description?.split("\r\n") || []
 
   useEffect(() => {
-    document.body.style.overflow = "auto"
+    // document.body.style.overflow = "auto"
   }, [])
 
   return (

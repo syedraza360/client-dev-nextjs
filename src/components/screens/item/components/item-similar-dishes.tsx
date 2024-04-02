@@ -4,7 +4,7 @@ import { translateFromObject } from "@/helpers/utils"
 import type { ICategory, ISubCategory } from "@/interfaces/category.interface"
 import type { IDish } from "@/interfaces/dish.interface"
 import type { IRestaurantSettings } from "@/interfaces/restaurant.interface"
-import { useParams, useRouter } from "next/navigation"
+import { useParams, usePathname, useRouter } from "next/navigation"
 import type { FC } from "react"
 import { useEffect, useMemo } from "react"
 import type { TypeItem } from "../item.interface"
@@ -31,14 +31,16 @@ const ItemSimilarDishes: FC<IItemSimilarDishes> = ({
 
   const { slug } = useParams()
 
+  const pathname = usePathname()
+
   const router = useRouter()
   const i18n = useI18n()
 
-  useEffect(() => {
-    if (type === "page") {
-      router.prefetch(`/${slug}?category=${category?.uid}`)
-    }
-  }, [])
+  // useEffect(() => {
+  //   if (type === "page") {
+  //     router.prefetch(`/${slug}?category=${category?.uid}`)
+  //   }
+  // }, [])
 
   const filteredDishedByCategory = useMemo(
     () =>
@@ -50,9 +52,13 @@ const ItemSimilarDishes: FC<IItemSimilarDishes> = ({
     [allDishes, category, dish?.uid]
   )
 
+  console.log("isSubCategory", isSubCategory)
+  console.log("pathname", pathname)
+
   const goToCategory = () => {
     onShowMore && onShowMore()
     if (type === "modal") {
+      // router.push(`${pathname}?${"category"}=${category?.uid}`)
       router.push(
         `/${slug}?${isSubCategory ? "subCategory" : "category"}=${category?.uid}`
       )

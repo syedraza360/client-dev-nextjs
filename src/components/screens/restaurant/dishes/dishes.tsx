@@ -84,42 +84,42 @@ const Item: FC<IItem> = ({ isFirst, category, show }) => {
 
   const description = i18n.find(category?.description)?.description
 
-  useEffect(() => {
-    if (!isMobile) {
-      const enterCallback = () => {
-        const mainWindow = document.getElementById(
-          "main-window-desktop"
-        ) as HTMLElement
+  // useEffect(() => {
+  //   if (!isMobile) {
+  //     const enterCallback = () => {
+  //       const mainWindow = document.getElementById(
+  //         "main-window-desktop"
+  //       ) as HTMLElement
 
-        if (mainWindow?.scrollTop === 0) return
+  //       if (mainWindow?.scrollTop === 0) return
 
-        setCategory(category.uid)
+  //       setCategory(category.uid)
 
-        const sidebarCategoriesScroll = document.getElementById(
-          "sidebar-categories-scroll"
-        ) as HTMLElement
-        const sidebarCategory = document.getElementById(
-          `sidebar-category-${category?.uid}`
-        ) as HTMLElement
-        sidebarCategoriesScroll?.scrollTo({
-          behavior: "smooth",
-          top: isFirst ? 0 : sidebarCategory?.offsetTop - 100
-        })
-      }
+  //       const sidebarCategoriesScroll = document.getElementById(
+  //         "sidebar-categories-scroll"
+  //       ) as HTMLElement
+  //       const sidebarCategory = document.getElementById(
+  //         `sidebar-category-${category?.uid}`
+  //       ) as HTMLElement
+  //       sidebarCategoriesScroll?.scrollTo({
+  //         behavior: "smooth",
+  //         top: isFirst ? 0 : sidebarCategory?.offsetTop - 100
+  //       })
+  //     }
 
-      ScrollTrigger?.create({
-        scroller: "#main-window-desktop",
-        //markers: true,
-        trigger: startElRef.current,
-        start: "top 40%",
-        endTrigger: endElRef.current,
-        end: "bottom 40%",
-        invalidateOnRefresh: true,
-        onEnter: enterCallback,
-        onEnterBack: enterCallback
-      })
-    }
-  }, [category.uid, setCategory, isMobile, isFirst])
+  //     ScrollTrigger?.create({
+  //       scroller: "#main-window-desktop",
+  //       //markers: true,
+  //       trigger: startElRef.current,
+  //       start: "top 40%",
+  //       endTrigger: endElRef.current,
+  //       end: "bottom 40%",
+  //       invalidateOnRefresh: true,
+  //       onEnter: enterCallback,
+  //       onEnterBack: enterCallback
+  //     })
+  //   }
+  // }, [category.uid, setCategory, isMobile, isFirst])
 
   return (
     <div className={cn(!isFirst && "mt-2")}>

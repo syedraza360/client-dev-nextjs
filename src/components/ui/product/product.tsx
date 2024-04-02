@@ -81,10 +81,13 @@ const Product: FC<IProduct> = ({
   )
 
   const onProductClick = () => {
+    const path = pathname.split("/")[1]
+
     if (isMobile) {
       // document.body.style.overflow = "hidden"
       setIsDishPageLoading(false)
-      // router.push({ pathname: pathname, query: product.uid })
+      router.push(`/${path}/${product.uid}`)
+      // router.push({ pathname: `${pathname}`, query: `${product.uid}` })
     } else {
       const newUrl = formUrlQuery({
         params: new URL(window.location.href).searchParams.toString(),
