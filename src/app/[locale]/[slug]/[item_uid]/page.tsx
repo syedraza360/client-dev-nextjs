@@ -1,5 +1,6 @@
 import { Locale } from "@/components/providers/i18n/i18n.interface"
 import Item from "@/components/screens/item/item"
+import ScrollHideNavBar from "@/components/ScrollHideNavBar/ScrollHideNavBar"
 import { fixCdnUrl } from "@/helpers/fix-cnd-url"
 import { translateFromObject } from "@/helpers/utils"
 import { RestaurantType } from "@/interfaces/restaurant.interface"
@@ -9,6 +10,7 @@ import type { Metadata, NextPage } from "next"
 import { getLocale } from "next-intl/server"
 import { headers } from "next/headers"
 import { notFound } from "next/navigation"
+// import ScrollHideNavBar from "@components/ScrollHideNavBar/ScrollHideNavBar"
 
 interface IParams {
   slug: string
@@ -78,6 +80,7 @@ const ItemPage: NextPage<IRestaurantPage> = async ({
   if (!restaurantData || !categoriesData || !dishesData || !dishData) notFound()
   return (
     <>
+      <ScrollHideNavBar />
       {!dishData.error && (
         <Item
           type={restaurant?.yumziProduct || RestaurantType.BROWSE}
