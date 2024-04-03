@@ -1,6 +1,5 @@
 import { Locale } from "@/components/providers/i18n/i18n.interface"
 import Item from "@/components/screens/item/item"
-import ScrollHideNavBar from "@/components/scrollbar/scrollbar"
 import { fixCdnUrl } from "@/helpers/fix-cnd-url"
 import { translateFromObject } from "@/helpers/utils"
 import { RestaurantType } from "@/interfaces/restaurant.interface"
@@ -79,7 +78,6 @@ const ItemPage: NextPage<IRestaurantPage> = async ({
   if (!restaurantData || !categoriesData || !dishesData || !dishData) notFound()
   return (
     <>
-      <ScrollHideNavBar />
       {!dishData.error && (
         <Item
           type={restaurant?.yumziProduct || RestaurantType.BROWSE}
