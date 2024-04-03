@@ -23,7 +23,7 @@ const ItemDetails: FC<IItemDetails> = ({ dish }) => {
       {isImages && (
         <>
           <div
-            className="pointer-events-none absolute left-0 top-0 z-10 h-full w-full bg-black"
+            className="pointer-events-none h-full w-full"
             style={{
               // opacity: scrollPosition === 0 ? 0 : scrollPosition / 950
             }}
